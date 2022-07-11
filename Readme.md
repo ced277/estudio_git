@@ -8,3 +8,5 @@ Documentacion
 
 ## otro texto agregado
 
+### se aprende en el curso del control de versiones distribuidos git
+
