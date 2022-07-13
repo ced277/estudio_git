@@ -1,12 +1,12 @@
 Documentacion 
 
-## repositorio de prueba
+# repositorio de prueba
 
-### texto de prueba.
+## texto de prueba.
 
-# se agregan mas cambios al archivo 
+## se agregan mas cambios al archivo 
 
-## otro texto agregado
+### otro texto agregado
 
 ### se aprende en el curso del control de versiones distribuidos git
 ### se realizan mas cambios desde el servidor remoto de github
