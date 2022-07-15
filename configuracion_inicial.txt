@@ -1,4 +1,4 @@
-
+inicio para git
 crea un nuevo repositorio en la línea de comando
 
 echo "# estudio_git" >> README.md
